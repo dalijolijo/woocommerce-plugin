@@ -2,6 +2,11 @@
 
 To get up and running with our plugin quickly, see the GUIDE here: https://docs.btcpayserver.org/integrations/woocommerce
 
+### Download and install plugin from GitHub
+Download the latest BTCPay plugin, upload it in .zip format into your WordPress and activate it. 
+
+In this [video](https://www.youtube.com/watch?v=6QcTWHRKZag) you will learn how to install your BTCPay Server WooCommece plugin.
+
 ## Brief Description
 
 Add the ability to accept bitcoin in WooCommerce via BTCPayServer.
